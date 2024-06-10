@@ -1,0 +1,16 @@
+AULA 1 - PHP
+Instalação do PHP - configurar o php
+https://windows.php.net/downloads/releases/php-8.3.8-Win32-vs16-x64.zip
+Criar contas no github
+https://github.com/
+baixar vscode - instalar plugins
+https://code.visualstudio.com/download
+startar um servidor php local
+php -S localhost:8000
+
+sessão 2 - PHP
+Variaveis - tipos de variaveis
+operadores aritmeticos 
+condições if, else, else if
+laços de repetição (contados e não contados)
+funções, parametros e retornos

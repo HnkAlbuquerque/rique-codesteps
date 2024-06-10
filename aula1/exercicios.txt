@@ -1,0 +1,11 @@
+1 - escreva um programa que verifica se o numero é par ou impar.
+
+2 - escreva um programa que soma 2 numeros.
+
+3 - escreva um programa que verifica se um triangulo é equilatero.
+
+4 - escreva um programa que identifica se um numero é primo.
+
+5 - escreva um programa que calcula a media entre 2 numeros.
+
+OBS. utilize a criação de funções.

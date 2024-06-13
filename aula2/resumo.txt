@@ -1,0 +1,11 @@
+o Básico sobre github
+subir arquivos, criar repositorios, fazer commit
+commando basicos
+
+git init
+git add
+git commit
+git push
+git status
+
+Estrutura switch -> case do php

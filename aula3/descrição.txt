@@ -1,0 +1,12 @@
+AULA 3
+
+revisão de comando git
+
+novos comando git
+
+resolução dos exercicios 32 e 38 do repositorio
+https://github.com/isquicha/exercicios-logica?tab=readme-ov-file
+
+breve explicação sobre arrays (novamente)
+
+fazendo a subida de uma nova branch no git e fazendo o merge na main

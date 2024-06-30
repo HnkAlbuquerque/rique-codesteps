@@ -1,0 +1,19 @@
+1 - declare um array, contendo apenas nomes de conehcidos;
+2 - declare um array, de um tabeuleiro de jogo da velha onde haja um vencedor de qualquer modo.
+use O e X.
+3 - declare uma matriz onde seja um tabuleiro de xadrez
+utilize a primeira letra de cada peça, para setar um tabuleiro padrão.
+ex. P = pEÃO, T = torre, B = bispo , C = cavalo , R = rei, r = rainha , X para lugares vazios
+4 - utilize o tabuleiro montado e mova quaisquer  peças nas posições, as posições elas devem existir em um jogo real.
+3 movimentos.
+
+5 - dado o array [1,2,54,67,98,56,32,53,51,87]; localize o numero 98 e imprima na tela;
+
+6 - dado a matriz [1,2,54,67],[98,56,32,53],[51,87]; localize o numero 53 e imprima na tela;
+
+7 - mega sena
+declare um array contendo 6 de 1 a 60
+percorra o array sorteio e verifique a quantidade de acertos e classifique, 4 quadra, 5 quina, 6 sena
+$sorteio = range(1, 60);
+shuffle($sorteio);
+$sorteio = array_slice($sorteio ,0,5);

@@ -1,0 +1,13 @@
+laços contados
+for ($i = 0; $i < 10; $i++) {
+}
+
+laços infinitos
+while ($i < 10) {
+    $i++;
+}
+
+percorrendo lista
+foreach ($nomes as $nome) {
+
+}

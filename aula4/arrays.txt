@@ -1,0 +1,52 @@
+armazenar varios valhores em uma unica variavel
+
+ex
+$notas = [
+    60,
+    70,
+    80,
+    90,
+    100
+];
+
+$alunos = [
+    suna,
+    smokinho,
+    rob,
+    joninha,
+    nat
+];
+
+arrays tem posições que inicia em 0
+pode-se acessar através com os numeros de cada posição
+ex
+$alunos[0]
+$alunos[2]
+
+com arrays, é possível criar matrizes
+ex de matriz 3x3
+
+    0   1   2
+  _____________
+0 | 1 | 2 | 3 |
+1 | 3 | 9 | 5 |
+2 | 5 | 2 | 2 |
+  _____________
+
+matrizes possuem linhas e colunas
+é possivel declarar um array com linhas e colunas
+$array = [
+    [suna, 75],
+    [smokinho, 70],
+    [rob, 90],
+    [nat, 90],
+];
+$array[0][1]
+
+arrays de chave e valor
+$frutas = [
+    'frutas vermelhas' => ['morango', 'cereja', 'amora'],
+    'frutas amarelas' => ['banana', 'mamão'],
+    'frutas citricas' => ['limão', 'laranja']
+]
+
